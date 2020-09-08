@@ -23,3 +23,5 @@ Also you can change the size of the square using as first argument a WWxHH forma
 ```sh
 node index.js 30x20 ask green dark
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/Josehower/node-colors)](https://repl.it/github/Josehower/node-colors)
