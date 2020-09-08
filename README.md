@@ -4,7 +4,7 @@ this small app is an excercise that allow the user create an square from the sel
 
 ## Usage
 
-if you run index.js give you a response whit a random color
+if you run index.js it will give you a response whit a random color
 
 if you want to use your own colors just type the color and the luminocity as arguments
 
