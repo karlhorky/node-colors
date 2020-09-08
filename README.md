@@ -8,13 +8,13 @@ run index.js geve you a responce whit a random color
 
 if you want to use your own colors just type the color and the luminocity as arguments
 
-```javascript
+```sh
 node index.js red dark
 ```
 
 you can also type
 
-```javascript
+```sh
 node index.js ask
 ```
 
@@ -22,6 +22,6 @@ to get a more interactive response
 
 Also you can change the size of the square using as first argument a WWxHH number
 
-```javascript
-node index.js ask green dark
+```sh
+node index.js 30x20 ask green dark
 ```
