@@ -12,7 +12,7 @@ if you want to use your own colors just type the color and the luminocity as arg
 node index.js red dark
 ```
 
-you can also type this to get a more interactive response
+if you want a more interactive response type this:
 
 ```sh
 node index.js ask
