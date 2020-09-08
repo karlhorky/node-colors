@@ -1,6 +1,6 @@
 # Node colors
 
-this small app is an excercise that allow the user create an square from the selected collor
+this small app is an excercise that allow the user create an square from the selected color
 
 ## Usage
 
