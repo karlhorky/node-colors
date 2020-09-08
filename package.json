@@ -1,0 +1,13 @@
+{
+  "name": "node-colors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Josehower <josehowerupn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "color-convert": "^2.0.1",
+    "colors": "^1.4.0",
+    "randomcolor": "^0.6.2"
+  }
+}
